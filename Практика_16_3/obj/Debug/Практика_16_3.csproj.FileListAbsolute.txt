@@ -1,0 +1,9 @@
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\ПРАКТИКА\Практика_16_3\bin\Debug\Практика_16_3.exe.config
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\ПРАКТИКА\Практика_16_3\bin\Debug\Практика_16_3.exe
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\ПРАКТИКА\Практика_16_3\bin\Debug\Практика_16_3.pdb
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\ПРАКТИКА\Практика_16_3\obj\Debug\Практика_16_3.csprojAssemblyReference.cache
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\ПРАКТИКА\Практика_16_3\obj\Debug\Практика_16_3.Form1.resources
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\ПРАКТИКА\Практика_16_3\obj\Debug\Практика_16_3.Properties.Resources.resources
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\ПРАКТИКА\Практика_16_3\obj\Debug\Практика_16_3.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\ПРАКТИКА\Практика_16_3\obj\Debug\Практика_16_3.exe
+C:\Users\Настя\Desktop\Школа\Задачи_ООП\ПРАКТИКА\Практика_16_3\obj\Debug\Практика_16_3.pdb
